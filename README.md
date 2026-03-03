@@ -92,19 +92,19 @@ The UML diagram illustrates the overall system architecture, including:
    ```
 3. Open the project in Xcode
    ```sh
-     Open the .xcodeproj or .xcworkspace file
+   Open the .xcodeproj or .xcworkspace file
   
-     Ensure Firebase is properly configured 
+   Ensure Firebase is properly configured 
    ```
 3. Install dependencies (if using CocoaPods)
    ```sh
-     pod install
+   pod install
    ```
 4. Build and run the application on:
    ```sh
-     iOS Simulator
+   iOS Simulator
   
-     Physical iOS device
+   Physical iOS device
    ```
 ---
 
@@ -112,6 +112,5 @@ The UML diagram illustrates the overall system architecture, including:
 
 - Popescu Paula-Marta
 
-
 git clone https://github.com/your-username/zeno.git
-cd zeno
+cd zen
