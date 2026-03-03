@@ -105,12 +105,5 @@ The UML diagram illustrates the overall system architecture, including:
 ## Author 
 
   Popescu Paula-Marta
- 
-
-
-
-
-
-
 git clone https://github.com/your-username/zeno.git
 cd zeno
