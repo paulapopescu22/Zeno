@@ -1,4 +1,4 @@
-<img width="576" height="437" alt="Screenshot 2026-03-03 at 16 19 30" src="https://github.com/user-attachments/assets/9aba9d77-5ce3-4d76-a763-aa0ab68a238d" /># Zeno – iOS Booking Management Application
+# Zeno – iOS Booking Management Application
 
 ## Project Overview
 
@@ -30,10 +30,7 @@ The Zeno logo was designed and created by *Popescu Paula-Marta* using **Vectorna
 
 ## System Architecture (UML)
 
-<!-- Add your UML diagram below -->
-
-![Uploading Screenshot 2026-03-03 at 16.20.29.png…]()
-
+<img width="576" height="437" alt="Screenshot 2026-03-03 at 16 19 30" src="https://github.com/user-attachments/assets/9aba9d77-5ce3-4d76-a763-aa0ab68a238d" />
 
 The UML diagram illustrates the overall system architecture, including:
 - User authentication flow
