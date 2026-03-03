@@ -86,31 +86,32 @@ The UML diagram illustrates the overall system architecture, including:
 ## Installation & Setup
 
 1. Clone the repository
+   ```sh
    git clone https://github.com/your-username/zeno.git
    cd zeno
-
-2. Open the project in Xcode
-
-  Open the .xcodeproj or .xcworkspace file
+   ```
+3. Open the project in Xcode
+   ```sh
+     Open the .xcodeproj or .xcworkspace file
   
-  Ensure Firebase is properly configured 
-
+     Ensure Firebase is properly configured 
+   ```
 3. Install dependencies (if using CocoaPods)
-
-  pod install
-
+   ```sh
+     pod install
+   ```
 4. Build and run the application on:
-
-  iOS Simulator
+   ```sh
+     iOS Simulator
   
-  Physical iOS device
-
+     Physical iOS device
+   ```
 ---
 
 ## Author 
 
-  Popescu Paula-Marta
+- Popescu Paula-Marta
 
----
+
 git clone https://github.com/your-username/zeno.git
 cd zeno
