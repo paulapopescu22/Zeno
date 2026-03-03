@@ -19,18 +19,21 @@ Zeno allows companies to efficiently manage worker accommodation and booking pro
 
 ## Application Logo
 
+
 <img width="525" height="201" alt="Screenshot 2026-03-03 at 16 23 10" src="https://github.com/user-attachments/assets/3a153068-abf5-4cc1-a89a-6763e29d761c" />
 
-
+---
 
 **Logo Design:**  
+
 
 The Zeno logo was designed and created by *Popescu Paula-Marta* using **Vectornator**.
 <img width="543" height="303" alt="Screenshot 2026-03-03 at 16 24 10" src="https://github.com/user-attachments/assets/cc4b5cde-a71f-48a4-a479-8ef6ee8d1c28" />
 
-
+---
 
 ## System Architecture (UML)
+
 
 <img width="576" height="437" alt="Screenshot 2026-03-03 at 16 19 30" src="https://github.com/user-attachments/assets/9aba9d77-5ce3-4d76-a763-aa0ab68a238d" />
 
@@ -102,8 +105,12 @@ The UML diagram illustrates the overall system architecture, including:
   
   Physical iOS device
 
+---
+
 ## Author 
 
   Popescu Paula-Marta
+
+---
 git clone https://github.com/your-username/zeno.git
 cd zeno
